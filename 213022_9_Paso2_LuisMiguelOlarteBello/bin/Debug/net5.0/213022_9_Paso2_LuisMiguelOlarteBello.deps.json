@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "213022_9_Paso2_LuisMiguelOlarteBello/1.0.0": {
+        "runtime": {
+          "213022_9_Paso2_LuisMiguelOlarteBello.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "213022_9_Paso2_LuisMiguelOlarteBello/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
